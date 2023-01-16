@@ -9,8 +9,9 @@
 
 ---
 
-## Member
-| <img src='https://avatars.githubusercontent.com/u/65546884?s=400&u=77cde868c35574004dbaa9aa3031aab36cfbde3b&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[김태연](https://github.com/taeyeon0319)</b> |  <img src='https://avatars.githubusercontent.com/u/65484500?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[전현정](https://github.com/hjyeeoonng)</b>  |    
+## Member   
+| <img src='https://avatars.githubusercontent.com/u/65546884?s=400&u=77cde868c35574004dbaa9aa3031aab36cfbde3b&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[김태연](https://github.com/taeyeon0319)</b> 
+|  <img src='https://avatars.githubusercontent.com/u/100748980?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[전현정](https://github.com/hjyeeoonng)</b>  |    
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 ---
 
