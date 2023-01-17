@@ -47,15 +47,36 @@
 
 ### 협업방법(Upstream)
 
-1. 협업 시작하기
-  - 스터디 1주차 펭귄 → `[김태연] 1주차`
-- 자신의 닉네임으로 된 브랜치를 딴 후 자신의 닉네임 폴더에 코드를 추가한 후 Pull Request를 보냅니다.
-- Pull Request 양식에 따라 작성해야 하며, 제대로 작성하지 않을 시 승인이 되지 않습니다.
+- 협업 시작하기   
+  - Fork뜨기    
+  - (터미널)git clone [복사한 url 붙여넣기(본인계정 url)]   
+  - upstream 설정 : git remote add upstream https://github.com/taeyeon0319/Python-Algorithm-Study.git   
+  - (참고*) fork한 본인의 repository([본인계정]/Python-Algorithm-Study)는 origin, 원본 repository(taeyeon0319/Python-Algorithm-Study)는 upstream이라고 한다.      
+<br>
+
+- branch 파서 작업하기   
+  - 브랜치 생성 : (터미널) git branch [브랜치 이름]   
+  - 프랜치 이동 : git checkout [생성한 브랜치 이름]   
+  - (참고*) 브랜치 이름은 아무거나 상관없음(예시. develop, KTY, 등등)   
+<br>
+
+- 작업 후 push 하기   
+   - 작업 내용 저장 : (터미널)git add .   
+   - 작업 commit 이름(위 Naming규칙에 따라 작성할 것) : (터미널)git commit -m "commit이름"   
+   - 작업 push : (터미널)git push origin [작업 브랜치 이름]   
+   - 레포지토리 들어와서 Compare & pull request 라는 초록색 버튼 클릭 -> Create pull request눌러 등록 완료   
+<br>
+
+- 최신상태로 업데이트
+   - git pull upstream main   
+   (또는)
+   - git fetch upstream main   
+   - git merge upstream main   
 ---
 
 ## Record
 <details markdown="1">
-<summary><strong>Chapter (2021.07.01 ~ )</strong></summary>
+<summary><strong>Chapter (2023.01.17 ~ )</strong></summary>
 
 <br/>
 
