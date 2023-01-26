@@ -83,7 +83,7 @@
 | 주차 | 주 | 유형 | 챕터명 | 챕터 |
 | :--: | :--: | :--: | :--: | :--: | 
 | 1주차 | 01.17 ~ 01.25 | Greedy & Implementation | 그리디 & 구현 | Chap3, 4, 11, 12  | 
-| 2주차 | 01.26 ~ 01.31 | DFS & BFS & Sorting | DFS/BFS & 정렬 | Chap5,  | 
+| 2주차 | 01.26 ~ 01.31 | DFS & BFS | DFS/BFS | Chap5, 13 | 
 
 // 미예정
 | 3주차 | Sorting | 정렬 |
